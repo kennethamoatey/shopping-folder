@@ -1,0 +1,38 @@
+.dropdown1{
+	border-style:solid;
+	border-weight:1px;
+	border-color:grey;
+}
+
+.ss{
+	border-style:solid;
+	border-color:grey;
+	border-width:1px;
+	background-color:lightgray;
+	width:40px;
+	height:40px;
+}
+
+	
+
+
+.first button{
+	border-radius:10px;
+	background-color:green;
+	color:white;
+	
+}
+
+footer{
+	border-style:solid;
+	border-color:grey;
+	background-color:grey;
+	margin-bottom:20px;
+	color:white;
+}
+
+
+	
+
+
+
